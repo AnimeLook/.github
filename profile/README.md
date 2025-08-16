@@ -13,5 +13,5 @@ AnimeLook is a platform that aims to provide the best experience for anime lover
 
 ## Language for README.md
 
-<a href="">🇹🇷 Turkish</a> |
+<a href="https://github.com/AnimeLook/.github/blob/main/profile/tr/README.md">🇹🇷 Turkish</a> |
 <a href="">🇬🇷 Greek</a>
