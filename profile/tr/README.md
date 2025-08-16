@@ -14,4 +14,4 @@ AnimeLook, anime severlere en iyi deneyimi sunmayı amaçlayan bir platformdur. 
 ## README.md için diller
 
 <a href="https://github.com/AnimeLook/.github/blob/main/profile/README.md">🇺🇸 İngilizce</a> |
-<a href="">🇬🇷 Yunanca</a>
+<a href="https://github.com/AnimeLook/.github/blob/main/profile/gr/README.md">🇬🇷 Yunanca</a>
